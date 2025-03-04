@@ -1,0 +1,7 @@
+package com.example.reto_aws.application.handler;
+
+import com.example.reto_aws.application.dto.request.UserRequest;
+
+public interface IUserHandler {
+    void saveUser(UserRequest userRequest);
+}

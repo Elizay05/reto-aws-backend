@@ -1,0 +1,4 @@
+package com.example.reto_aws.infrastructure.output.jpa.repository;
+
+public interface IUserRepository {
+}
